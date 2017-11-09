@@ -7,7 +7,7 @@
 }
 /* =======================================================
 *
-* 	Template Style 
+* 	Template Style
 *	Edit this section
 *
 * ======================================================= */
@@ -1114,6 +1114,15 @@ body.offcanvas #fh5co-main, body.offcanvas .fh5co-nav-toggle {
 
 .js .animate-box {
   opacity: 0;
+}
+
+.gras {
+  font-weight: bold;
+}
+
+.ita {
+  font-style: italic;
+  font-size:90%;
 }
 
 /*# sourceMappingURL=style.css.map */
